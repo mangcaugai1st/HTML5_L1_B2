@@ -1,0 +1,23 @@
+body {
+    background-color: #ffffff;
+}
+
+header {
+    display: flex;
+    margin-left: 162px;
+    width:960px;
+    height: 100px;
+    background-color: #0091be;
+    padding: 10px;
+    color: #ffffff;
+    margin-left: auto;
+    margin-right: auto;
+}
+img {
+    font-family: Tahoma,Verdana,Segoe,sans-serif; 
+}
+h1 { 
+   font-size: 24px;
+   color: white ; 
+   	font-family: Tahoma,Verdana,Segoe,sans-serif; 
+}
